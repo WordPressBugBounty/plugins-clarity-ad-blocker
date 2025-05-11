@@ -3,6 +3,7 @@
 .yoast_premium_upsell
 #wpseo-local-seo-upsell
 .yoast-settings-section-upsell
+#webinar-promo-notification
 
 -- Rank Math SEO
 #rank_math_review_plugin_notice
@@ -93,6 +94,7 @@ div.fs-slug-the-events-calendar[data-id="connect_account"]
 -- WebP Converter for Media
 div.notice[data-notice="webp-converter-for-media"]
 .webpLoader__popup.webpPopup
+.webpcPopup
 
 -- Generic "Plugin Usage Tracker" class
 .put-dismiss-notice
